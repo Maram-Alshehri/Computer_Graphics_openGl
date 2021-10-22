@@ -1,3 +1,3 @@
-# Computer_Graphics_openGl
+# Computer Graphics openGl
 
 A simple example for drawing using JOGL 
